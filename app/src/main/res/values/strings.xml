@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MeowSave</string>
+    <string name="nav_browser">Navegador</string>
+    <string name="nav_downloads">Descargas</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="download_notification_channel">Descargas de MeowSave</string>
+    <string name="download_notification_channel_desc">Muestra el progreso y estado de descargas multimedia activas</string>
+</resources>
